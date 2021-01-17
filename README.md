@@ -8,4 +8,4 @@ pointer_declaration.cpp -> An example for showing the reference and dereference 
 
 static_variable.cpp-> An example for showing the capability of C++ for creating static variables inside of functions with the life-time equal to the project.
 
-static_class_member.cpp> An example for showing the capability of C++ for creating class objects as static member.
+static_class_member.cpp> An example for showing the capability of C++ for creating class objects as static members.
